@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1529735625 source:c:\users\lenovo\documents\clock\main.cpp
+	"iGraphics.h"
+
+1527773346 c:\users\lenovo\documents\clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1527849766 source:c:\users\lenovo\documents\clock\imain.cpp
+	"iGraphics.h"
+
+1529735625 source:e:\cse\1-1\offline\clock\main.cpp
+	"iGraphics.h"
+
+1527773346 e:\cse\1-1\offline\clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1529735625 source:f:\cse\1-1\offline\clock\main.cpp
+	"iGraphics.h"
+
+1527773346 f:\cse\1-1\offline\clock\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
